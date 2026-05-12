@@ -3,12 +3,12 @@ This repository contains example python code and instructions for accessing the 
 
 # Contents
 src/ — Python example scripts for loading and analysing the data
-docs/ — supporting notes <br>
+docs/ — supporting notes  
 requirements.txt — Python package requirements
 
 # Quick start
-Create and activate a Python environment (recommended)
-Install Python dependencies:
+Create and activate a Python environment (recommended)  
+Install Python dependencies:  
 pip install -r requirements.txt
 
 # Code Licensing
