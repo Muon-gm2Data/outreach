@@ -3,7 +3,7 @@ This repository contains example python code and instructions for accessing the 
 
 # Contents
 src/ — Python example scripts for loading and analysing the data
-docs/ — supporting notes
+docs/ — supporting notes <br>
 requirements.txt — Python package requirements
 
 # Quick start
