@@ -2,8 +2,8 @@
 This repository contains example python code and instructions for accessing the publicly available data of the Fermilab Muon g-2 experiment
 
 # Contents
-src/ — Python example scripts for loading and analysing the data
-docs/ — supporting notes  
+src/ — Python example scripts for loading and analysing the data<br>
+docs/ — supporting notes<br>  
 requirements.txt — Python package requirements
 
 # Quick start
