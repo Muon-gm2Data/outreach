@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fermilab Muon g-2 Collaboration Outreach Software"
+doi: 10.5281/zenodo.19632588
+url: "https://github.com/Muon-gm2Data/outreach"
+license: "MIT"
